@@ -1,0 +1,27 @@
+settings = 
+{
+	
+	orientation =
+	{
+		default = "portrait",
+		content = "portrait",
+	},
+	
+	iphone = 
+	{
+		plist = 
+		{
+		 
+   			CFBundleIconFiles = {
+             	"Icon57.png", 
+	            "Icon57@2x.png",
+	            "Icon60@2x.png",
+	            "Icon29.png", 
+	            "Icon29@2x.png",
+	            "Icon40@2x.png"
+			},
+		    
+		},
+	},
+
+}
